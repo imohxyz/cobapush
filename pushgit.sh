@@ -11,7 +11,7 @@ git add .
 #read commitMessage
 git commit -am "perubahan terbaru"
 # push to git remote repository
-git push origin master
+git push -f origin master
 # read $pass
 ###########################
 echo Press Enter...
