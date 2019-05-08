@@ -1,5 +1,5 @@
 #!/bin/sh
-$pass =Haqiqi@2019
+# $pass =Haqiqi@2019
 ###########################
 cd D:/BitKit/Tabulasi-2
 # switch to branch you want to use
@@ -12,7 +12,7 @@ git add .
 git commit -am "perubahan terbaru"
 # push to git remote repository
 git push origin master
-read $pass
+# read $pass
 ###########################
 echo Press Enter...
 read
