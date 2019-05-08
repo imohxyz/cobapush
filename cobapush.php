@@ -1,5 +1,5 @@
 <?php 
 echo "cobain push dari sini";
 
-echo shell_exec('sh pushgit.sh');
+system("cmd /d D:/BitKit/Tabulasi2/pushgit.bat");
  ?>
