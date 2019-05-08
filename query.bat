@@ -1,0 +1,1 @@
+sqlcmd -U sa -P hM9Ouzavf5Kj -S 173.255.143.187,25000 -i "D:\IMOH\UNHCR\query.sql"
