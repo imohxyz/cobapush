@@ -66,7 +66,8 @@ foreach($response as $key => $response) {
     }
     
 }
-echo shell_exec('sh D:/BitKit/Tabulasi-2/pushgit.sh');
+system("cmd /d D:/BitKit/Tabulasi-2/pushgit.sh");
+// echo shell_exec('sh D:/BitKit/Tabulasi-2/pushgit.sh');
 ?>
 
 <!--<a href="http://hanurata.id/mink/hanurata_dprri.php">Download Gambar</a>-->
