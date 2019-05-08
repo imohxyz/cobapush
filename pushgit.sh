@@ -1,5 +1,5 @@
 #!/bin/sh
-$pass = Haqiqi@2019
+$pass =Haqiqi@2019
 ###########################
 cd D:/BitKit/Tabulasi-2
 # switch to branch you want to use
